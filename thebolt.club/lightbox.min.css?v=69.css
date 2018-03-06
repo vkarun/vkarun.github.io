@@ -1,0 +1,1 @@
+body:after{content:url(close.png%3Fv=69) url(loading.gif%3Fv=69) url(prev.png%3Fv=69) url(next.png%3Fv=69);display:none}.lightbox{position:absolute;left:0;width:100%;z-index:10000;text-align:center;line-height:0;font-weight:400}.lightbox a img{border:none}
