@@ -1,0 +1,6 @@
+Sitemap: https://www.sephora.sg/sitemap.xml
+
+User-agent: *
+Disallow: /mobile_app/
+Disallow: /search
+
